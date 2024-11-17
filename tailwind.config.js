@@ -9,3 +9,12 @@ export default {
   },
   plugins: [],
 }
+
+module.exports = {
+  darkMode: "class", // Configura o modo escuro para funcionar com a classe 'dark'
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
