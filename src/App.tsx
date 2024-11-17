@@ -1,5 +1,5 @@
 import './App.css'
-import NavBar from './componentes/navbar'
+import NavBar from './componentes/NavBar'
 
 import Cta from './componentes/cta'
 
